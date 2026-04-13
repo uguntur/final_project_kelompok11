@@ -68,7 +68,7 @@
 
 <div class="container">
     <div class="login-box">
-        <h2>Login Presensi Kampus UNP</h2>
+        <h2>Login Presensi Kampus UNP Kediri</h2>
 
         <form method="POST" action="/login">
             <div class="form-group">
